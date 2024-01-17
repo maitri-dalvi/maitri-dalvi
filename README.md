@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Maitri 
-- 👀 I’m interested in Web Development as of now. 
-- 🌱 Currently learning JavaScript.
 - ⚡ I love to bring ideas to life through code.
 
 🌟 Currently exploring the vast universe of software development, I'm eager to contribute to open source projects and collaborate with the coding community 🤝. My journey involves learning, coding, and continuously pushing the boundaries of my skills 📚.
