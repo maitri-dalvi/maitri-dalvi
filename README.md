@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Maitri 
 - ⚡ I love to bring ideas to life through code.
+- ✨ Web DEV 🔎
 
 🌟 Currently exploring the vast universe of software development, I'm eager to contribute to open source projects and collaborate with the coding community 🤝. My journey involves learning, coding, and continuously pushing the boundaries of my skills 📚.
 
