@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Maitri<br>⚡ I love to bring ideas to life through code<br>🔭 I’m currently working on my Healthcare App Startup<br>🌱 I’m currently learning Flutter<br>🔎 Fun fact: I love my pc
+👋 Hi, I’m Maitri<br>⚡ I love to bring ideas to life through code<br>🔭 Currently working on my Healthcare App Startup<br>🌱 Currently learning Flutter<br>🔎 Fun fact: I love my pc
 
 
 ## 🌐 Socials:
