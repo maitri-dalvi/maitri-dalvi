@@ -1,7 +1,3 @@
-# 💫 About Me:
-👋 Hi, I’m Maitri<br>⚡ I love to bring ideas to life through code<br>🔭 Currently working on my Healthcare App Startup<br>🔎 Fun fact: I love my pc
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maitridalvi13) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@maitridalvi2004) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mai3dalvi) 
 
